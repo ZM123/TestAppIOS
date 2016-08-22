@@ -1,3 +1,3 @@
 # TestAppIOS
 
-[![BuddyBuild](https://bbzal.ngrok.io/api/statusImage?appID=5787f5d1ce1658363314b1a3&branch=master&build=latest)](https://bbzal.ngrok.io/apps/5787f5d1ce1658363314b1a3/build/latest)
+[![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=573a5a33e159670100fa4d28&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/573a5a33e159670100fa4d28/build/latest)
